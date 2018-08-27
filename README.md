@@ -34,5 +34,7 @@ Example: Write your name on a text file and save it as yourname.txt
 ### Push your work to github
 
 > git add .
+
 > git commit -am "I wrote my name"
+
 > git push origin yourname
