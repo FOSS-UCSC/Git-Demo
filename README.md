@@ -1,5 +1,6 @@
 # How Contribute for a Github Repository
 **Success must include two things. The development of an Individual to his utmost potentiality and a contribution of some kind to one's world.**
+
 ~elenor roosewelt~
 ## Step 1:
 
