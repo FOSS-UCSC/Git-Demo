@@ -37,9 +37,10 @@ ex -:
 
 1. Type the following command in the Git Bash
 > cd ./demo
+
 > git add .
 
-'.' for track all the files. If you want, you can give the specific file name to track
+for tracking all the files use **dot(.)**. If you want, you can give the specific file name to track
 
 ## Step 6: [Git Commit](#git-commit)
 
