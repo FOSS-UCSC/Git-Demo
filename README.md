@@ -8,26 +8,31 @@
 
 * Git Desktop Download: [https://desktop.github.com/](https://desktop.github.com/)
 
-## Step 2:
+## STEP 2:
+Click on the fork button in the https://github.com/FOSS-UCSC
+
+![](https://image.ibb.co/fD4M7p/Capture.png)
+
+## Step 3:
 
 ### Clone the Repository
 Now you need a copy locally, so find the “SSH clone URL” in the right hand column and use that to clone locally using a terminal:
 > git clone https://github.com/FOSS-UCSC/demo
  
 
-## Step 3:
+## Step 4:
 
 ### Do some work
 
 Example: Write your name on a text file and save it as yourname.txt
 
-## Step 4:
+## Step 5:
 
 ### Create a new Branch with your name
 
 > git checkout -b yourname
  
-## Step 5:
+## Step 6:
 
 ### Push your work to github
 
@@ -35,4 +40,4 @@ Example: Write your name on a text file and save it as yourname.txt
 
 > git commit -am "I wrote my name"
 
-> git push origin yourname
+> git push origin branchname
