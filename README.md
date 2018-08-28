@@ -8,8 +8,8 @@
 
 * Git Desktop Download: [https://desktop.github.com/](https://desktop.github.com/)
 
-## STEP 2:
-Click on the fork button in the https://github.com/FOSS-UCSC
+## STEP 2: [##fork](fork)
+Click on the fork button in the https://github.com/FOSS-UCSC/demo
 
 ![](https://image.ibb.co/fD4M7p/Capture.png)
 
@@ -41,3 +41,8 @@ Example: Write your name on a text file and save it as yourname.txt
 > git commit -am "I wrote my name"
 
 > git push origin branchname
+
+--------------------------------------------------------------------------------
+# Some Basic Details
+
+## Fork
