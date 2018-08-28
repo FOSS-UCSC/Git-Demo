@@ -8,15 +8,24 @@
 
 * Git Desktop Download: [https://desktop.github.com/](https://desktop.github.com/)
 
-## STEP 2: [fork](#fork)
-Click on the fork button in the https://github.com/FOSS-UCSC/demo
+## Step 2: [fork](#fork)
+
+1. Go to the [Demo Repository](https://github.com/FOSS-UCSC/demo)
+2. Click on the fork button 
 
 ![](https://image.ibb.co/fD4M7p/Capture.png)
 
-## Step 3:
+## Step 3: [clone](#clone)
+1. Now you need a copy locally in your account, so find the “SSH clone URL” in the right hand column and copy the link
 
-### Clone the Repository
-Now you need a copy locally, so find the “SSH clone URL” in the right hand column and use that to clone locally using a terminal:
+![](https://github.com/FOSS-UCSC/demo/blob/master/Assets/Capture01.PNG)
+
+2. Now open git bash and go to the folder where you need to create your local repository
+
+ex -:
+> cd ~/Desktop
+
+3. Then type **clone command** as below with the copied link of the repository
 > git clone https://github.com/FOSS-UCSC/demo
  
 
@@ -46,4 +55,7 @@ Example: Write your name on a text file and save it as yourname.txt
 # Some Basic Details
 
 ## Fork
-fefew
+Get a copy of a repository from an account of someone else to your account.
+
+## Clone
+Get a copy of a repository from your github account to your local machine.
