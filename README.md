@@ -1,4 +1,4 @@
-# How Contribute for a Github Repository
+# How To Contribute for a Github Repository
 
 ## Step 1:
 
@@ -36,8 +36,10 @@ ex -:
 ## Step 5: [Git Track Files](#git-track-files)
 
 1. Type the following command in the Git Bash
+> cd ./demo
 > git add .
-( '.' for track all the files. If you want, you can give the specific file name to track)
+
+'.' for track all the files. If you want, you can give the specific file name to track
 
 ## Step 6: [Git Commit](#git-commit)
 
@@ -72,5 +74,8 @@ When you do some changes on the local repository in your machine, that's not do 
 ## Git Create a new Branch
 Branching is a key feature of the git and github. You can use git bash to work with branches.
  - To create new branch
- > git checkout -b <branch name>
+ > git branch <branch name>
+ 
+ - To switch to another branch
+ > git checkout <branch name>
  
