@@ -40,7 +40,7 @@ ex -:
 
 > git add .
 
-for tracking all the files use **dot(.)**. If you want, you can give the specific file name to track
+for tracking all the files use **Dot**. If you want, you can give the specific file name to track
 
 ## Step 6: [Git Commit](#git-commit)
 
@@ -74,9 +74,17 @@ When you do some changes on the local repository in your machine, that's not do 
 
 ## Git Create a new Branch
 Branching is a key feature of the git and github. You can use git bash to work with branches.
- - To create new branch
+ - To create a new branch
  > git branch <branch name>
  
  - To switch to another branch
  > git checkout <branch name>
+ 
+ - To delete a branch
+ > git branch -d <branch name>
+ 
+ ## Git Status
+ > git status
+ 
+ 
  
