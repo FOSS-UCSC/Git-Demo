@@ -52,6 +52,8 @@ for tracking all the files use **Dot**. If you want, you can give the specific f
 1. Type the following command in the Git Bash
 > git push origin master
 
+## Step 8: [Pull Request]
+
 
 --------------------------------------------------------------------------------
 # Some Basic Details
