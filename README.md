@@ -54,7 +54,7 @@ If this is the first time of pushing, you have to [make a SSH key](#git-make-a-s
 1. Type the following command in the Git Bash
 > git push origin master
 
-## Step 8: [Pull Request]
+## Step 8: [Pull Request](#git-pull-request)
 
 Now you have forked a repository from FOSS-UCSC to your account, created a clone repository to your local machine from that forked repository, did some changes and pushed it to the github repository in your account. Now we have to make your changes in the repository of FOSS-UCSC too.
 
