@@ -58,8 +58,10 @@ If this is the first time of pushing, you have to [make a SSH key](#git-make-a-s
 
 Now you have forked a repository from FOSS-UCSC to your account, created a clone repository to your local machine from that forked repository, did some changes and pushed it to the github repository in your account. Now we have to make your changes in the repository of FOSS-UCSC too.
 
-1. Go to the "demo" github repository in your account and click the compare link
+1. Go to the "demo" github repository in your account and click the pull request link
+![](https://github.com/FOSS-UCSC/demo/blob/master/Assets/Capture02.PNG)
 
+2. Do the rest of things in appropriate way and make a new PR. After you make a PR we can review it and merge to our repository
 
 
 --------------------------------------------------------------------------------
