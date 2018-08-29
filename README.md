@@ -49,7 +49,7 @@ for tracking all the files use **Dot**. If you want, you can give the specific f
 
 ## Step 7: [Git Push](#git-push)
 
-If this is the first time of pushing, you have to [make a SSH key](#make-a-ssh-key) for your account.
+If this is the first time of pushing, you have to [make a SSH key](#git-make-a-ssh-key) for your account.
 
 1. Type the following command in the Git Bash
 > git push origin master
