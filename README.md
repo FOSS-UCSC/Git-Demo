@@ -56,6 +56,11 @@ If this is the first time of pushing, you have to [make a SSH key](#git-make-a-s
 
 ## Step 8: [Pull Request]
 
+Now you have forked a repository from FOSS-UCSC to your account, created a clone repository to your local machine from that forked repository, did some changes and pushed it to the github repository in your account. Now we have to make your changes in the repository of FOSS-UCSC too.
+
+1. Go to the "demo" github repository in your account and click the compare link
+
+
 
 --------------------------------------------------------------------------------
 # Some Basic Details
@@ -91,5 +96,8 @@ Branching is a key feature of the git and github. You can use git bash to work w
  > git status
  
  ## Git Make a SSH key
+ Follow the 1 & 2 links to generate and add SSH key to your github account
  
+ 1. https://help.github.com/articles/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent/
+ 2. https://help.github.com/articles/adding-a-new-ssh-key-to-your-github-account
  
