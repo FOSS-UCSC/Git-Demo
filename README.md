@@ -49,6 +49,8 @@ for tracking all the files use **Dot**. If you want, you can give the specific f
 
 ## Step 7: [Git Push](#git-push)
 
+If this is the first time of pushing, you have to [make a SSH key](#make-a-ssh-key) for your account.
+
 1. Type the following command in the Git Bash
 > git push origin master
 
@@ -88,5 +90,6 @@ Branching is a key feature of the git and github. You can use git bash to work w
  ## Git Status
  > git status
  
+ ## Git Make a SSH key
  
  
